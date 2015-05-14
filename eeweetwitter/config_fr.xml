@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>eeweetwitter</name>
+	<displayName><![CDATA[Twitter (eewee.fr)]]></displayName>
+	<version><![CDATA[1.0.0]]></version>
+	<description><![CDATA[Widget Twitter for your eShop]]></description>
+	<author><![CDATA[Eewee.fr]]></author>
+	<tab><![CDATA[social_networks]]></tab>
+	<confirmUninstall><![CDATA[]]></confirmUninstall>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>
